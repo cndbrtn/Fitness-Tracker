@@ -1,7 +1,7 @@
 # Fitness Tracker
 ## An app to help you achieve your fitness goals
 
-(Deployed App)[https://github.com/cndbrtn/Fitness-Tracker]
+[Deployed App](https://github.com/cndbrtn/Fitness-Tracker)
 
 ## User Story
 
