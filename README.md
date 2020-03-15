@@ -2,6 +2,7 @@
 ## An app to help you achieve your fitness goals
 
 [Deployed App](https://github.com/cndbrtn/Fitness-Tracker)
+![Fitness Charts](https://github.com/cndbrtn/Fitness-Tracker/blob/master/public/img/example.png)
 
 ## User Story
 
