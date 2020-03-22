@@ -1,7 +1,7 @@
 # Fitness Tracker
 ## An app to help you achieve your fitness goals
 
-[Deployed App](https://github.com/cndbrtn/Fitness-Tracker)
+[Deployed App](https://ancient-peak-89715.herokuapp.com/)
 ![Fitness Charts](https://github.com/cndbrtn/Fitness-Tracker/blob/master/public/img/example.png)
 
 ## User Story
